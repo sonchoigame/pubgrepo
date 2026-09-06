@@ -1,0 +1,52 @@
+{
+"schemaVersion": 1, 
+"identifier": "nsmod.ffth.os", 
+"name": "♰ NSMOD PUBG", 
+"description": " : ̗̀➛ PUBG MENU VIP \n : ̗̀➛ KÊNH TELGRAM: @sonchoigame123  ",
+"icon": "img/avt.jpg", 
+"packages": [ 
+{ 
+"identifier": "PUBG-V3", 
+"name": "HACK PUBG V3  ", 
+"author": "thanhxdat", 
+"version": "1.0.0", 
+"summary": "CHỨC NĂNG VIP ★", 
+"description": "VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
+"category": "KÊNH TELGRAM: @sonchoigame123", 
+"tags": [ 
+"KÊNH TELGRAM: @sonchoigame123"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "patch/V3-6 Remake.3105",
+"sha256": "8BC65D5CD043FBB9EBB732F8EF9690714E83EE90E9B2F36F883DCE10645E9A90", 
+"password": "YB",
+"size": 294885, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+]
+}
