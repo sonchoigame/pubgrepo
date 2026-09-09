@@ -11,7 +11,7 @@
 "author": "thanhxdat", 
 "version": "1.0.0", 
 "summary": "CHỨC NĂNG VIP ★", 
-"description": "VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
+"description": " PASS TRONG GAME: FREEV1    VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
 "category": "KÊNH TELGRAM: @sonchoigame123", 
 "tags": [ 
 "KÊNH TELGRAM: @sonchoigame123"
@@ -21,10 +21,58 @@
 "img/images.jpg"
 
 ], 
-"download": "patch/PUBG V1 FIX ERROR.3105",
-"sha256": "922E82B7E9D6B993B599833DD320F2DE0F7F95789FB167305C38F2D29D03891B", 
+"download": "patch/PUBG 4-6 V2.3105",
+"sha256": "0BFB2CB62C16D11347284056B76EC86E7985EF6AAAB9E8BFBAE86E9994B9202E", 
 "password": "YB",
-"size": 1172414, 
+"size": 4049312, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+{ 
+"identifier": "PUBG-V32", 
+"name": " V1 KHÔNG MODSKIN ", 
+"author": "thanhxdat", 
+"version": "1.0.0", 
+"summary": "CHỨC NĂNG VIP ★", 
+"description": " PASS TRONG GAME: FREEV1 \n VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
+"category": "KÊNH TELGRAM: @sonchoigame123", 
+"tags": [ 
+"KÊNH TELGRAM: @sonchoigame123"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "patch/PUBG 4-6 V3-2.3105",
+"sha256": "553DBF7420ECC732E4B63EAA178D8F48AA6FB615B69C7815D98F42E9395C66E3", 
+"password": "YB",
+"size": 2903010, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -48,5 +96,6 @@
 "featured": false, 
 "isPrivate": false 
 }
+
 ]
 }
