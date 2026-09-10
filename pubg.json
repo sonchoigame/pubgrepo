@@ -21,10 +21,10 @@
 "img/images.jpg"
 
 ], 
-"download": "patch/PUBG 4-6 V2.3105",
-"sha256": "0BFB2CB62C16D11347284056B76EC86E7985EF6AAAB9E8BFBAE86E9994B9202E", 
+"download": "patch/PUBG V2 FIX MENH.3105",
+"sha256": "970F6FB20544F86F5BCFC3192B36CF2AA127AF35026EBC7950959E136E7DD2A9", 
 "password": "YB",
-"size": 4049312, 
+"size": 3620828, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
@@ -95,7 +95,52 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+
+{ 
+"identifier": "PUBG-V323", 
+"name": " V3 FIX LAG  ", 
+"author": "thanhxdat", 
+"version": "1.0.0", 
+"summary": "FIX CRASH , ĐƠ GAME , FIX LAG ★", 
+"description": " VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
+"category": "KÊNH TELGRAM: @sonchoigame123", 
+"tags": [ 
+"KÊNH TELGRAM: @sonchoigame123"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "patch/PUBG V3 FIX LAG.3105",
+"sha256": "934D418DB42E0DC63B78D77849BE8A605CC0E5537D422635879A020EA38A50F6", 
+"password": "dembanlamdog",
+"size": 2903126, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 
 ]
 }
+
