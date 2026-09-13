@@ -139,6 +139,50 @@
 ], 
 "featured": false, 
 "isPrivate": false 
+},
+
+{ 
+"identifier": "PUBG-V1", 
+"name": " V1.3 FIX ALL LỖI  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "FIX ALL LỖI ★", 
+"description": " VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
+"category": "KÊNH TELGRAM: @sonchoigame123", 
+"tags": [ 
+"KÊNH TELGRAM: @sonchoigame123"
+], 
+"icon": "img/images.jpg", 
+"screenshots": [ 
+"img/images.jpg"
+
+], 
+"download": "patch/PUBG 1.3.3105",
+"sha256": "F267EE309A679958517C487691368272BD2F4AC69CD2DBF461E88879A4CA2F8B", 
+"password": "YB",
+"size": 3577959, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
 }
 
 ]
