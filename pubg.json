@@ -6,12 +6,12 @@
 "icon": "img/avt.jpg", 
 "packages": [ 
 { 
-"identifier": "PUBG-V1", 
-"name": "HACK PUBG V1 FIX  ", 
-"author": "thanhxdat", 
+"identifier": "PUBG-V2", 
+"name": "HACK PUBG v2 ", 
+"author": "quangdung", 
 "version": "1.0.0", 
 "summary": "CHỨC NĂNG VIP ★", 
-"description": " XÓA BẢN CŨ TRƯỚC KHI DÙNG    VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
+"description": " PASS TRONG GAME : FREEV1    VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
 "category": "KÊNH TELGRAM: @sonchoigame123", 
 "tags": [ 
 "KÊNH TELGRAM: @sonchoigame123"
@@ -25,97 +25,6 @@
 "sha256": "AAA48E77C7BA83C71935322C2C55F3B3E96A52B862032904517C9A87DE31ECA5", 
 "password": "YB",
 "size": 48222, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
-
-
-{ 
-"identifier": "PUBG-V2", 
-"name": "HACK PUBG V2 FIX  ", 
-"author": "NSMOD", 
-"version": "1.0.0", 
-"summary": "CHỨC NĂNG VIP ★", 
-"description": " XÓA BẢN CŨ TRƯỚC KHI DÙNG    VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
-"category": "KÊNH TELGRAM: @sonchoigame123", 
-"tags": [ 
-"KÊNH TELGRAM: @sonchoigame123"
-], 
-"icon": "img/images.jpg", 
-"screenshots": [ 
-"img/images.jpg"
-
-], 
-"download": "patch/pubg v2.3105",
-"sha256": "849662CDC16193461632B9ABAD75503C0A374D293FD9083F8775E158FAD28199", 
-"password": "hl",
-"size": 4866696, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
-
-{ 
-"identifier": "PUBG-V3", 
-"name": "HACK PUBG V3  ", 
-"author": "NSMOD", 
-"version": "1.0.0", 
-"summary": "CHỨC NĂNG VIP ★", 
-"description": " XÓA BẢN CŨ TRƯỚC KHI DÙNG    VIP VÃI L 💨\n 🛡️ AntiBan \n TẢI VỀ RỒI NHỚ ÁP DỤNG NHÉ", 
-"category": "KÊNH TELGRAM: @sonchoigame123", 
-"tags": [ 
-"KÊNH TELGRAM: @sonchoigame123"
-], 
-"icon": "img/images.jpg", 
-"screenshots": [ 
-"img/images.jpg"
-
-], 
-"download": "patch/pubg v3.3105",
-"sha256": "0CA1C6C9E73AD99097959CD48EA5DA7A6DA2F26CE3DE80049EF0790D9E8C1352", 
-"password": "hl",
-"size": 16419144, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
