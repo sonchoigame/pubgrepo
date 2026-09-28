@@ -21,10 +21,10 @@
 "img/images.jpg"
 
 ], 
-"download": "patch/PUBG 4-6 V1.3105",
-"sha256": "AAA48E77C7BA83C71935322C2C55F3B3E96A52B862032904517C9A87DE31ECA5", 
+"download": "patch/PUBG v2.3105",
+"sha256": "68B8572144507F6C1F39CF61AA1DFDD24ADB71CC6897790643E00EC9EBEA450A", 
 "password": "YB",
-"size": 48222, 
+"size": 1307574, 
 "supportedOS": [
   {
     "minimum": "17.0",
